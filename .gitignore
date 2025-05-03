@@ -163,3 +163,7 @@ cython_debug/
 
 # MacOS
 .DS_Store
+
+# LLM
+finetuned-gpt2/
+evaluation/
